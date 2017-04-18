@@ -14,7 +14,6 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/antlr-2.7.7.jar"/>
-	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/com.mysql.jdbc_5.1.5.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/dom4j-1.6.1.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hibernate-commons-annotations-4.0.5.Final.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hibernate-core-4.3.10.Final.jar"/>

@@ -10,6 +10,6 @@
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
   <listener>
-  <listener-class> org.jboss.weld.environment.servlet.Listener</listener-class>
+    <listener-class> org.jboss.weld.environment.servlet.Listener</listener-class>
   </listener>
 </web-app>
